@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1024489975688",
+    "firebase_url": "https://feedback-form-app-32885-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "feedback-form-app-32885",
+    "storage_bucket": "feedback-form-app-32885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024489975688:android:86c3449c213c351104d43d",
+        "android_client_info": {
+          "package_name": "com.example.feedback_form_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcnEVECOq1TjzOThb-PVuE_tVzBN-88aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
